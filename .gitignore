@@ -1,4 +1,8 @@
 *.c
 *.cpp
 *.py
+*.txt
+*.csv
+*.xlsx
 output
+.vscode
